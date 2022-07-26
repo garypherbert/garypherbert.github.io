@@ -53,7 +53,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer and Network Securuty
+    - degree: MSc in Computer and Network Securuty (Merit)
       university: Staffordshire University
       time: 2019 - 2021
       details: |
@@ -64,7 +64,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Multimedia Computing
+    - degree: BSc in Multimedia Computing (2:2)
       university: University of the West of England
       time: 2005 - 2009
       details: |
